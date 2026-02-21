@@ -53,22 +53,11 @@
 ---
 
 
----
-
-# 📈 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAryankaushal&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamAryankaushal&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAryankaushal&layout=compact&theme=tokyonight)
-
----
-
 # 🏆 Certifications
 
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure Foundations Associate
  
-
 ---
 
 # 🎯 Current Focus
@@ -87,3 +76,9 @@
 ---
 
 ⚡ Automating Infrastructure | Building Scalable Systems | Learning Every Day ⚡
+
+```bash
+$ whoamoi
+Aryan Kaushal
+```
+
