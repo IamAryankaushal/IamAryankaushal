@@ -66,8 +66,4 @@
 
 ⚡ Automating Infrastructure | Building Scalable Systems | Learning Every Day ⚡
 
-```bash
-$ whoamoi
-Aryan Kaushal
-```
 
